@@ -4,7 +4,7 @@
     "homepage": "https://github.com/sageserpent-open/kineticMerge",
     "license": "MIT",
     "url": "https://github.com/sageserpent-open/kineticMerge/releases/download/v1.21.6/git-cli-application-1.21.6.zip",
-    "hash": "sha256:3881d5dbeb9d3b9bdaa16cf3a406a22a1609acccee52fa2c1d536c7b5e2e7b4d",
+    "hash": "sha256:20f561f88a44bc2127284e539acff94434bfde391dc38d593a3973fd14f1baa5",
     "extract_dir": "git-cli-application-1.21.6",
     "env_add_path": "bin",
     "suggest": {
