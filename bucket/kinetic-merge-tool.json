@@ -4,7 +4,7 @@
     "homepage": "https://github.com/sageserpent-open/kineticMerge",
     "license": "MIT",
     "url": "https://github.com/sageserpent-open/kineticMerge/releases/download/v1.21.6/tool-cli-application-1.21.6.zip",
-    "hash": "sha256:696d6cf3b0d1f3f12c29d4c427e9daec15edf33ff4bbd7fdcf2fb0b2f81aa30a",
+    "hash": "sha256:b60527afa5212ec9df3a2d677493ee8a71aa12f8e74a4eaf02db70a251ff0a96",
     "extract_dir": "tool-cli-application-1.21.6",
     "env_add_path": "bin",
     "suggest": {
