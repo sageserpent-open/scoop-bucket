@@ -1,0 +1,27 @@
+{
+    "version": "1.21.6",
+    "description": "Merge a heavily refactored codebase and stay sane.",
+    "homepage": "https://github.com/sageserpent-open/kineticMerge",
+    "license": "MIT",
+    "url": "https://github.com/sageserpent-open/kineticMerge/releases/download/v1.21.6/git-cli-application-1.21.6.zip",
+    "hash": "sha256:2b31a3fa8e8a7d7cd7770e41ce51b5f043c6b03684248541f56231569c869c93",
+    "extract_dir": "git-cli-application-1.21.6",
+    "env_add_path": "bin",
+    "suggest": {
+        "JDK": [
+            "java/oraclejdk",
+            "java/openjdk"
+        ]
+    },
+    "checkver": {
+        "url": "https://github.com/sageserpent-open/kineticMerge/releases/latest",
+        "re": "v([\\d.]+).zip"
+    },
+    "autoupdate": {
+        "url": "https://github.com/sageserpent-open/kineticMerge/releases/download/v$version/git-cli-application-$version.zip",
+        "extract_dir": "git-cli-application-$version",
+        "hash": {
+            "url": "$url.sha256"
+        }
+    }
+}
