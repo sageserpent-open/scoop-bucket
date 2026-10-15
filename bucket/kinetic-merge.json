@@ -3,23 +3,17 @@
     "description": "Merge a heavily refactored codebase and stay sane.",
     "homepage": "https://github.com/sageserpent-open/kineticMerge",
     "license": "MIT",
-    "url": "https://github.com/sageserpent-open/kineticMerge/releases/download/v1.21.6/git-cli-application-1.21.6.zip",
-    "hash": "sha256:20f561f88a44bc2127284e539acff94434bfde391dc38d593a3973fd14f1baa5",
-    "extract_dir": "git-cli-application-1.21.6",
+    "url": "https://github.com/sageserpent-open/kineticMerge/releases/download/v1.21.6/kinetic-merge-1.21.6-windows-x86_64.zip",
+    "hash": "sha256:758880084d327277d29e7497e5d7a1445fc9f26973be5406471a5e600acda951",
+    "extract_dir": "kinetic-merge-1.21.6-windows-x86_64",
     "env_add_path": "bin",
-    "suggest": {
-        "JDK": [
-            "java/oraclejdk",
-            "java/openjdk"
-        ]
-    },
     "checkver": {
         "url": "https://github.com/sageserpent-open/kineticMerge/releases/latest",
         "re": "v([\\d.]+).zip"
     },
     "autoupdate": {
-        "url": "https://github.com/sageserpent-open/kineticMerge/releases/download/v$version/git-cli-application-$version.zip",
-        "extract_dir": "git-cli-application-$version",
+        "url": "https://github.com/sageserpent-open/kineticMerge/releases/download/v$version/kinetic-merge-$version-windows-x86_64.zip",
+        "extract_dir": "kinetic-merge-$version",
         "hash": {
             "url": "$url.sha256"
         }
