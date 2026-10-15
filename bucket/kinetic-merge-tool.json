@@ -4,7 +4,7 @@
     "homepage": "https://github.com/sageserpent-open/kineticMerge",
     "license": "MIT",
     "url": "https://github.com/sageserpent-open/kineticMerge/releases/download/v1.21.6/kinetic-merge-tool-1.21.6-windows-x86_64.zip",
-    "hash": "sha256:4b023567aa97274a27433e934e239c6c1b940722c06a9f5e5012e8c6d1e0df67",
+    "hash": "sha256:1b2cd7672a44e66fba755a4ae19f5ee15486f402ab1617ebc2ccb70cfb1d4ff7",
     "extract_dir": "kinetic-merge-tool-1.21.6-windows-x86_64",
     "env_add_path": "bin",
     "checkver": {
