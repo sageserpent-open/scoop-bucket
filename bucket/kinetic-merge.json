@@ -1,11 +1,11 @@
 {
-    "version": "1.23.0",
+    "version": "1.24.0",
     "description": "Merge a heavily refactored codebase and stay sane.",
     "homepage": "https://github.com/sageserpent-open/kineticMerge",
     "license": "MIT",
-    "url": "https://github.com/sageserpent-open/kineticMerge/releases/download/v1.23.0/kinetic-merge-1.23.0-windows-x86_64.zip",
-    "hash": "sha256:947ee768665046242a796872a7c375a4a0ea7f7473fe6403d3cb29edc7e0af08",
-    "extract_dir": "kinetic-merge-1.23.0-windows-x86_64",
+    "url": "https://github.com/sageserpent-open/kineticMerge/releases/download/v1.24.0/kinetic-merge-1.24.0-windows-x86_64.zip",
+    "hash": "sha256:7983a07c03dd68ea18909d2569cc9d728ee5eaaf947a4a5df4c6511e32eb1035",
+    "extract_dir": "kinetic-merge-1.24.0-windows-x86_64",
     "env_add_path": "bin",
     "checkver": {
         "url": "https://github.com/sageserpent-open/kineticMerge/releases/latest",
